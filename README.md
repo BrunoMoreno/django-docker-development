@@ -2,11 +2,11 @@
 
 to build:
 
-    docker-compose build base
+    $ docker-compose build base
 
 to start:
 
-    docker-compose up base
+    $ docker-compose up base
 
 
 ## License
